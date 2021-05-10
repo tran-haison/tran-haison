@@ -1,6 +1,7 @@
-👋 Hi fren, I’m Sơn.\
-🌱 Currently working as Android Developer.\
+👋 Hi people, I’m Sơn.\
+🌱 I'm currently working as part-time Mobile Developer.\
 📫 How to reach me:
+* Linkedin: linkedin.com/in/tranhaison/
 * Facebook: facebook.com/tran.haison.2501/
 * Instagram: @tran_haison
   
