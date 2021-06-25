@@ -1,5 +1,5 @@
-👋 Hi people, I’m Sơn.\
-🌱 I'm currently working as part-time Mobile Developer.\
+👋 Hi people, I’m Xơn.\
+🌱 Mobile Developer.\
 📫 How to reach me:
 * Linkedin: linkedin.com/in/tranhaison/
 * Facebook: facebook.com/tran.haison.2501/
