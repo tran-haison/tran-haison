@@ -1,5 +1,5 @@
-👋 Hi people, I’m Xơn.\
-🌱 Mobile Developer.\
+👋 Hi people.\
+🌱 Mobile Developer / Android / Flutter.\
 📫 How to reach me:
 * Linkedin: linkedin.com/in/tranhaison/
 * Facebook: facebook.com/tran.haison.2501/
