@@ -5,8 +5,8 @@
 <br><br>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%2361C667.svg?style=for-the-badge&logo=Android&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23678468.svg?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-orange?style=for-the-badge)
+![Django](https://img.shields.io/badge/Machine%20Learning-%23678468.svg?style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/Data%20Science-orange?style=for-the-badge)
 
 📫 How To Reach Me:
 <br><br>
