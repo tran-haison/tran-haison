@@ -1,26 +1,33 @@
-<h1 align="center">👋 Henlo 👋</h1>
-<h3 align="center">🌱 Mobile Developer / Android / Flutter 🌱</h3>
-  
-:page_with_curl: Currently Learning:
-<br><br>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%2361C667.svg?style=for-the-badge&logo=Android&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23678468.svg?style=for-the-badge)
-![ReactJS](https://img.shields.io/badge/ReactJS-orange?style=for-the-badge)
+<h1 align="left">J Henlo :)</h1>
 
-📫 How To Reach Me:
-<br><br>
-[<img src="https://img.shields.io/badge/LinkedIn-tranhaison-blue">](https://linkedin.com/in/tranhaison/)
-[<img src="https://img.shields.io/badge/Email-haison250199%40gmail.com-orange">](mailto:haison250199@gmail.com)
-[<img src="https://img.shields.io/badge/Youtube-Xơn-%23FF0000.svg">](https://www.youtube.com/channel/UCHAYY-jbLERESWtTjPzn7NA)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tran-haison)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tranhaison/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:haison250199@gmail.com)
+[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCHAYY-jbLERESWtTjPzn7NA)
 
-⚡ Github Stats:
-<br><br>
-![Hai Son's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=tran-haison)
+<br>
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="50%" align="right" alt="Github" src="image.gif" />
+
+<h3 align="left">Mobile Developer / Android / Flutter</h3>
+
+- 👨🏽‍💻 I’m currently working on [Vigor Calisthenics](https://github.com/tran-haison/Vigor-Calisthenics)
+- 🌱 I’m currently learning Advanced Android and Flutter
+- 😭 I’m looking for help with Mediapipe Pose Estimation integration into Android
+- 💬 Ask me about anything, I am happy to help, but not guarantee to give correct answer :)
+- ⚡️ Fun fact: I love working out in the gym 
+- 📫 How to reach me: haison250199@gmail.com
+
+<br>
 
 ✨ Most Used Languages:
 <br><br>
 ![Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=tran-haison&layout=compact)
+
+⚡ Github Stats:
+<br><br>
+![Hai Son's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=tran-haison)
 
 <!---
 tran-haison/tran-haison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
