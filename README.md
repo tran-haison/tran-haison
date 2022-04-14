@@ -5,7 +5,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:haison250199@gmail.com)
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCHAYY-jbLERESWtTjPzn7NA)
 
-<br>
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="image.gif" />
