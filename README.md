@@ -9,7 +9,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="image.gif" />
 
-<h3 align="left">Mobile Developer / Android / Flutter</h3>
+<h3 align="left">Mobile Engineer / Android / Flutter</h3>
 
 - 👨🏽‍💻 I’m currently working on [Vigor Workouch](https://github.com/tran-haison/vigor-workouch)
 - 🌱 I’m currently learning Advanced Android, Flutter and a litttle iOS :)
