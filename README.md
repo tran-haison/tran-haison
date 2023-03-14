@@ -12,9 +12,13 @@
 <h3 align="left">Mobile Engineer / Android / Flutter</h3>
 
 👨🏽‍💻 I’m currently working on [Vigor Workouch](https://github.com/tran-haison/vigor-workouch)
+<br>
 🌱 I’m currently learning Advanced Android, Flutter and a litttle iOS :)
+<br>
 💬 Ask me about anything, I am happy to help, but not guarantee to give correct answer :)
+<br>
 ⚡️ Fun fact: I love working out in the gym 
+<br>
 📫 How to reach me: haison250199@gmail.com
 
 <br>
