@@ -13,7 +13,7 @@
 
 👨🏽‍💻 I’m currently working on [Vigor Workouch](https://github.com/tran-haison/vigor-workouch)
 <br>
-🌱 I’m currently learning Advanced Android, Fluttẻ and a little bit of iOS
+🌱 I’m currently learning Advanced Android, Flutter and a little bit of iOS
 <br>
 💬 Ask me about anything, I'm happy to help, but not guarantee to give correct answer :)
 <br>
