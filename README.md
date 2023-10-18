@@ -3,13 +3,12 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tran-haison)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tranhaison/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:haison250199@gmail.com)
-[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCHAYY-jbLERESWtTjPzn7NA)
 
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="image.gif" />
 
-<h3 align="left">Mobile Engineer / Android / Flutter</h3>
+<h3 align="left">Mobile Engineer / Android / iOS / Flutter</h3>
 
 👨🏽‍💻 I’m currently working on [Vigor Workouch](https://github.com/tran-haison/vigor-workouch)
 <br>
