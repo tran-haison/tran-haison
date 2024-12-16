@@ -15,7 +15,7 @@
 
 <!-- ✨ Most Used Languages: -->
 <!-- <br><br> -->
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tran-haison&layout=compact)
+<!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tran-haison&layout=compact) -->
 
 <!-- ⚡ Github Stats: -->
 <!-- <br><br> -->
