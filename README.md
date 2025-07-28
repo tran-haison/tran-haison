@@ -3,15 +3,15 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="50%" align="right" alt="Github" src="image.gif" /> -->
 
-<h3 align="left">Mobile Engineer / Android / iOS / Flutter</h3>
+<h3 align="left">Software Engineer</h3>
 
-- Working on [Vigor Workouch](https://github.com/tran-haison/vigor-workouch)
-- Learning advanced Android, Flutter, and fundamentals of iOS
+- Building my SaaS, no bull-sh** AI wrapper tools, only genuine human connection
+- Learning Full-stack and DevOps
 - Ask me about anything, I'm happy to help, but not guarantee to give the correct answer :)
 - Fun fact: I love working out in the gym and playing soccer
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tranhaison/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:haison250199@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.sonth2501@gmail.com)
 
 <!-- ✨ Most Used Languages: -->
 <!-- <br><br> -->
