@@ -5,7 +5,7 @@
 
 <h3 align="left">Software Engineer</h3>
 
-- Building my SaaS, no bull-sh** AI wrapper tools, only genuine human connection
+- Building my SaaS
 - Learning Full-stack and DevOps
 - Ask me about anything, I'm happy to help, but not guarantee to give the correct answer :)
 - Fun fact: I love working out in the gym and playing soccer
