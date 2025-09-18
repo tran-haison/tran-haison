@@ -19,7 +19,7 @@
 
 <!-- ⚡ Github Stats: -->
 <!-- <br><br> -->
-![Github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=tran-haison)
+<!-- ![Github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=tran-haison) -->
 
 <!---
 tran-haison/tran-haison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
