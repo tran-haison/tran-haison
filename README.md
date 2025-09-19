@@ -5,10 +5,9 @@
 
 <h3 align="left">Software Engineer</h3>
 
-- Building my SaaS
-- Learning Full-stack and DevOps
-- Ask me about anything, I'm happy to help, but not guarantee to give the correct answer :)
-- Fun fact: I love working out in the gym and playing soccer
+- Building my SaaS: [Tasktiq](https://tasktiq.com)
+- All in for Fullstack and DevOps
+- Most recent activities: 😪 - 🏋 - ⚽️  
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tranhaison/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.sonth2501@gmail.com)
