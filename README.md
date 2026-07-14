@@ -7,7 +7,8 @@
 
 - Building my SaaS: Keeps (launch soon)
 - All in for Fullstack and DevOps
-- Most recent activities: 😪 - 🏋 - ⚽️  
+- Most recent activities: 😪 - 🏋 - ⚽️
+- Sorry, my GitHub projects are not fancy cause I keep those private :)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tranhaison/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.sonth2501@gmail.com)
