@@ -3,12 +3,13 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="50%" align="right" alt="Github" src="image.gif" /> -->
 
-<h3 align="left">Software Engineer</h3>
+<h3 align="left">Software Engineer / Solopreneur</h3>
 
-- Building my SaaS: Keeps (launch soon)
-- All in for Fullstack and DevOps
+- Building my SaaS: [Keeps](https://keeps.nosiahstudios.com/)
+- How I tailor my resume to match any JD for 10x speed up application process: [Resumie](https://resumie.space/)
+- Fullstack / DevOps / Cloud
 - Most recent activities: 😪 - 🏋 - ⚽️
-- Sorry, my GitHub projects are not fancy cause I keep those private :)
+- Sorry, my GitHub projects are not fancy cause I keep them all private :)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tranhaison/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.sonth2501@gmail.com)
